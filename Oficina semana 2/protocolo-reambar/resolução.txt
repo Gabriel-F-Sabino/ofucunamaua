@@ -1,0 +1,3 @@
+Olhando o codigo fonte, tem um comentario dizendo pra não usar os nomes dos dinossauros como senha.
+Indo até 3000/REambar ele pede uma senha, no codigo fonte de novo tem um comentario citando o dinossauro Scarlectus.
+Usando esse nome como senha ele habilita o protocolo e nos fornece a flag.
